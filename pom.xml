@@ -57,7 +57,6 @@
             <artifactId>frontend-maven-plugin</artifactId>
             <version>1.14.0</version>
         </dependency>
-
     </dependencies>
 
     <build>
